@@ -9,4 +9,4 @@ the diagonal asserts because understanding the board position was difficult aswe
 2. Explain how you would add a computer player to the game.
 you would ask for inputs in position instead of using asserts
 3. If you add a computer player, explain (doesn't have to be super technical) how you might get the computer player to play the best move every time. *Note - I am not grading this for a correct answer, I just want to know your thoughts on how you might accomplish it.
-I assume that I would teach it different game scenarios based off of where the oppenent goes since there arent that many ways the game can go. You would also use an if statement to block the opponent if they ever have 2 in a row
+I dont know how I would create an offensive computer but I would probably give it different functions for different first moves the oppenets makes and build a defensive program that wouldnt allow the oppent to get three in a row.
